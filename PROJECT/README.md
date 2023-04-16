@@ -28,16 +28,29 @@
 
 ## Problem definition
 
-I am High School Student in an International School in Japan. The school offers different levels and types of English classes from which I am currently attending to the English A Literature class. The class requires active discussion for each class where we share our thoughts about the books read for the course. I am asked to manually create a personal portafolio and add my thoughts in it after the discussions in class, however at the moment this method has become too time consuming for me and tedious to mantain organized. It is also difficult for me to catch up later when missing one class as the discussion is not recorded in any way. Additionally, I have spoken with my classmates which have agreed as it beign an issue for most students in the class. After a brainstorm session, I have concluded that I am in need of a Social Network that allows me to post my ideas and have class discussion in an organized manner in a shared space. Additionally, it is important to consider that the client's budget is limited.
+I am High School Student in an International School in Japan. The school offers different levels and types of English classes from which I am currently attending to the English A Literature class. The class requires active discussion for each class where we share our thoughts about the books read for the course. I am asked to manually create a personal portafolio and add my thoughts in it after the discussions in class, however at the moment this method has become too time consuming for me and tedious to mantain organized. It is also difficult for me to catch up later when missing one class as the discussion is not recorded in any way. Additionally, I have spoken with my classmates which have agreed as it beign an issue for most students in the class. After a brainstorm session, I have concluded that I am in need of a Social Network that allows me to post my ideas and have class discussion in an organized manner in a shared portafolio space. Additionally, it is important to consider that the client's budget is limited.
   
 Ask:
 Evidence of consultation?
 What does the second criteria in the problem section mean?
 
 ## Rationale for Proposed Solution
+  
+Considering my solution requires an adequate solution includes Social Network that allows me to post my ideas and have class discussion in an organized manner in a shared portafolio space. For this application it may adequate to consider a website with a GUI (Graphical User Interface) that can store data into a database. Considering the budgetary constrains of the client, the software tool that I proposed for this solution is HTML, CSS and Python.
 
-Considering the client requirements an adequate solution includes a habit tracker application that helps her visualize, organize and keep track of her progress in the course of developing good habits. For this application it may adequate to consider a computer program with a GUI (Graphical User Interface) that can store data into a database. Considering the budgetary constrains of the client, the software tool that I proposed for this solution is Python. Python is free and platform-independent. That is, if you write the code on one of the Windows, Mac, or Linux operating systems, then you can run the same code on the other OS with no need for any changes so it can be run. In other words, it can be supported by multiple platforms. Nevertheless, requieres a lot of memeory[^1]. Regarding data storage for this solution, SQLite can be a good option. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day. The code for SQLite is in the public domain and is thus free for use for any purpose, commercial or private[^2]. A database engine is the software that does the real work of sorting the information, finding specific data that you request, and so on [^3]. This makes it a good option for the proposed solution as the habit tracker will be displaying, storing and deleting data regarding th habits of the client. As for the GUI (Graphical User Interface), KivyMD is good option to consider. A graphical user interface (GUI) is an interface through which a user interacts with electronic devices such as computers and smartphones through the use of icons, menus and other visual indicators or representations (graphics) [^4]. This GUI tool is very simple and allows to create the displays required by the proposed solution.
+Questions:
+Python, HTML, CSS and what else?
+When avoid developer centric reasons, what to say if im the client ?
 
 ## Design statement
 
 I will design and make a habit tracker application for a highschool student. The project will be about designing that helps her visualize, organize and keep track of her progress in the course of developing good habits and will be constructed using the software Python 3.10.7, SQLite (database engine) and KivyMD (Graphical User Interface tool). It will take about 4 weeks to make and will be evaluated according to the criteria below.
+
+## Success criteria
+  
+1. The solution provides a search bar to identify keywords within a discussion so the user is able to find information faster.
+2. The solution provides a way to save favorite comments so the user is able to access them later when needed.
+3. The solution displays the discussions organized by book from the class reading list in an organized manner.
+4. The solution allows the user to start new discussions for every book in the class reading list. 
+5. The solution allows the user to post ideas within a discussion.
+6. The solution allows the user to comment on previously posted ideas within a discussion.
