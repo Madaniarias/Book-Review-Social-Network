@@ -44,7 +44,7 @@ When avoid developer centric reasons, what to say if im the client ?
 
 ## Design statement
 
-I will design and make a habit tracker application for a highschool student. The project will be about designing that helps her visualize, organize and keep track of her progress in the course of developing good habits and will be constructed using the software Python 3.10.7, SQLite (database engine) and KivyMD (Graphical User Interface tool). It will take about 4 weeks to make and will be evaluated according to the criteria below.
+I will design and make a Book review Social Network for a highschool student. The project will be about designing a Social Network that helps her visualize, organize and keep track of her progress in the course of developing good habits and will be constructed using the software Python 3.10.7, SQLite (database engine) and KivyMD (Graphical User Interface tool). It will take about 4 weeks to make and will be evaluated according to the criteria below.
 
 ## Success criteria
   
