@@ -1,6 +1,6 @@
 # PROJECT 4
 
-![8-puXk52KFb2GkieX](https://user-images.githubusercontent.com/111761417/232276608-553deb45-2310-438f-ae84-fa7c21f98ade.png)
+![8-puXk52KFb2GkieX (1)](https://user-images.githubusercontent.com/111761417/232277766-c49a150c-759a-4ed6-962b-bca05b65bbd5.png)
 
 # UNIT 3: A BOOK REVIEW SOCIAL NETWORK FOR HIGH SCHOOL ENGLISH CLASSES.
 
