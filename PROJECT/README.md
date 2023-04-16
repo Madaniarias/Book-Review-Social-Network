@@ -28,10 +28,11 @@
 
 ## Problem definition
 
+I am High School Student in an International School in Japan. The school offers different levels and types of English classes from which I am currently attending to the English A Literature class. The class requires active discussion for each class where we share our thoughts about the books read for the course. I am asked to manually create a personal portafolio and add my thoughts in it after the discussions in class, however at the moment this method has become too time consuming for me and tedious to mantain organized. It is also difficult for me to catch up later when missing one class as the discussion is not recorded in any way. Additionally, I have spoken with my classmates which have agreed as it beign an issue for most students in the class. After a brainstorm session, I have concluded that I am in need of a Social Network that allows me to post my ideas and have class discussion in an organized manner in a shared space. Additionally, it is important to consider that the client's budget is limited.
   
-I am High School Student in an International School in Japan. The school offers different levels and types of English classes where I attend to the English A Literature class. The class requires active discussion for each class where we share our thoughts about the books read for the course. I am asked to manually create a personal portafolio and add my thought and other's in it after the discussions in class, however at the moment this method has become too time consuming for me and tedious to mantain organized. It is also difficult for me to catch up later when missing one class as the discussion is not recorded in any way. Additionally, I have spoken with my classmates which have agreed as it beign an issue for most students in the class. After a brainstorm session 
-  
-  I am interested in creating a space for with my English Literature Class to share our ideas in a collaborative manner about the books read in class. My classmates and I have been manually creating our personal portafolios after the discussions in class, however at the moment this methos has become too time consuming for me and tedious to mantain organized. It is also difficult for me and my classmates to catch up later or benefit from the idea exchange when missing one class. I am in need of a Social Network that allows me to post my ideas and have class discussion in an organized manner ina shared space. Additionally, it is important to consider that the client's budget is limited.
+Ask:
+Evidence of consultation?
+What does the second criteria in the problem section mean?
 
 ## Rationale for Proposed Solution
 
