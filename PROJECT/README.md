@@ -34,11 +34,12 @@ I am High School Student in an International School in Japan. The school offers 
 
 ## Rationale for Proposed Solution
   
-Considering my solution requires an adequate solution includes Social Network that allows me to post my ideas and have class discussion in an organized manner in a shared portafolio space. For this application it may adequate to consider a website with a GUI (Graphical User Interface) that can store data into a database. Considering the budgetary constrains of the client, the software tool that I proposed for this solution is HTML, CSS and Python.
+Considering teh clients requirements an adequate solution includes a Social Network that allows to post ideas and have class discussion in an organized manner in a shared portafolio space. For this application it may adequate to consider a website with a GUI (Graphical User Interface) that can store data into a database. Considering the budgetary constrains of the client, the software tools that I propose for this solution are Flask, HTML, CSS and Python. This tools will complement each other to fulfill the success criteria set by the client. Firstly, Flask is a web development framework that we will use to create and host the server fro the webiste and allow us to use Python, HTML and CSS altogether. Additionally, Flask's status as a microframework means that you can use it to grow a tech project such as a web app incredibly quickly [1].  
+  
 
-Questions:
-Python, HTML, CSS and what else?
-When avoid developer centric reasons, what to say if im the client ?
+  
+  
+
 
 ## Design statement
 
@@ -103,3 +104,15 @@ I will design and create a Book review Social Network for a highschool student. 
 | 43     | Final approval by client | Obtain approval by the client on the overall development of the habit tracker application | 20 min | March 9 | C
 | 44     | Flow diagrams | Draw the flow diagrams for some of the important function inside the code for habit tracker application.  | 90 min | March 9 | C
 | 45     | UML Diagram | Draw the UML diagrams for the screen structure and internal functionality for habit tracker application. | 40 min | March 9 | C
+  
+# Criteria D: Functionality
+
+### VIDEO IN GOOGLE DRIVE FOLDER
+
+  
+# Sources
+[^1]: “The Flask Web Framework: A Beginner’s Guide.” Careerfoundry.com, careerfoundry.com/en/blog/web-development/what-is-flask/#advantages-and-disadvantages-of-flask.
+[^2]: “Advantages of Python | Disadvantages of Python.” Python Geeks, 25 June 2021, pythongeeks.org/advantages-disadvantages-of-python/.
+[^3]: 
+[^4]: 
+[^5]:
