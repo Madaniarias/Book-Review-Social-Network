@@ -34,7 +34,7 @@ I am High School Student in an International School in Japan. The school offers 
 
 ## Rationale for Proposed Solution
   
-Considering teh clients requirements an adequate solution includes a Social Network that allows to post ideas and have class discussion in an organized manner in a shared portafolio space. For this application it may adequate to consider a website with a GUI (Graphical User Interface) that can store data into a database. Considering the budgetary constrains of the client, the software tools that I propose for this solution are Flask, HTML, CSS and Python. This tools will complement each other to fulfill the success criteria set by the client. Firstly, Flask is a web development framework that we will use to create and host the server for the Book Review webiste and allow us to use Python, HTML and CSS altogether. Secondly, I will be using the software tool Python 3.10.7. Python is free and platform-independent. That is, if you write the code on one of the Windows, Mac, or Linux operating systems, then you can run the same code on the other OS with no need for any changes so it can be run. In other words, it can be supported by multiple platforms. Nevertheless, requieres a lot of memeory[^1]. Thirdly, I will be using CSS
+Considering teh clients requirements an adequate solution includes a Social Network that allows to post ideas and have class discussion in an organized manner in a shared portafolio space. For this application it may adequate to consider a website with a GUI (Graphical User Interface) that can store data into a database. Considering the budgetary constrains of the client, the software tools that I propose for this solution are Flask, HTML, CSS and Python. This tools will complement each other to fulfill the success criteria set by the client. Firstly, Flask is a web development framework that we will use to create and host the server for the Book Review webiste and allow us to use Python, HTML and CSS altogether. Secondly, I will be using the software tool Python 3.10.7. Python is free and platform-independent. That is, if you write the code on one of the Windows, Mac, or Linux operating systems, then you can run the same code on the other OS with no need for any changes so it can be run. In other words, it can be supported by multiple platforms. Nevertheless, requieres a lot of memeory[^1]. Thirdly, I will be using CSS which stands for Cascading Style Sheets. CSS is a design language that makes a website look more appealing than just plain or uninspiring pieces of text [^2]. Additionally, offers compatibility across
   
 
   
@@ -112,7 +112,7 @@ I will design and create a Book Review Social Network for a highschool student. 
   
 # Sources
 [^1]: “Advantages of Python | Disadvantages of Python.” Python Geeks, 25 June 2021, pythongeeks.org/advantages-disadvantages-of-python/.
-[^2]:
+[^2]: User, Devmountain. “What Is CSS and Why Should You Use It?” Devmountain, 22 Apr. 2019, devmountain.com/blog/what-is-css-and-why-use-it/.
 [^3]: 
 [^4]: 
 [^5]:
