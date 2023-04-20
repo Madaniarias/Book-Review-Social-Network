@@ -43,12 +43,12 @@ Considering teh clients requirements an adequate solution includes a Social Netw
 
 ## Design statement
 
-I will design and create a Book Review Social Network for a highschool student. The project will be about designing a Social Network that helps her post her ideas and have class discussion about the books read in class in an organized manner in a shared portafolio space and will be constructed using the software Python 3.10.7, Flask, HTML and CSS. It will take about 3 weeks to make and will be evaluated according to the criteria below.
+I will design and create a Book Review Social Network for a highschool student. The project will be about designing a Social Network that helps her post her ideas and have class discussion about the books read in class and will be constructed using the software Python 3.10.7, Flask, HTML and CSS. It will take about 3 weeks to make and will be evaluated according to the criteria below.
 
 ## Success criteria
   
-1. The solution provides a search bar to identify keywords within a discussion so the user is able to find information faster.
-2. The solution provides a way to save favorite comments so the user is able to access them later when needed.
+1. The solution provides a search bar to identify keywords within a discussion.
+2. The solution provides a way to save favorite comments.
 3. The solution displays the discussions organized by book from the class reading list in an organized manner.
 4. The solution allows the user to start new discussions for every book in the class reading list. 
 5. The solution allows the user to post ideas within a discussion.
