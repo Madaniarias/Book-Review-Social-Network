@@ -37,7 +37,7 @@ Considering teh clients requirements an adequate solution includes a Social Netw
   
 ## Design statement
 
-I will design and create a Book Review Social Network for a highschool student. The project will be about designing a Social Network that helps her post her ideas and have class discussion about the books read in class in an organized manner and will be constructed using the software Python 3.10.7, Flask, HTML and CSS. It will take about 3 weeks to make and will be evaluated according to the criteria below.
+I will design and create a Book Review Social Network called LitPals for a highschool student. LitPals will allow her to have discussions and exchange of ideas about the books read in class and will be constructed using the software Python 3.10.7, Flask, HTML and CSS. It will take about 3 weeks to make and will be evaluated according to the criteria below.
 
 ## Success criteria
   
