@@ -29,7 +29,7 @@
 
 ## Problem definition
 
-I am High School Student in an International School in Japan who attends an English Literature class. The class requires active discussion and exchange of ideas about the books read for the course. I am asked to manually create a personal portfolio and add my thoughts in it after the discussions in class, however at the moment this method has become too time consuming for me, tedious and hard to keep track off. It is also difficult for me to find important information when studying. Additionally, I have spoken with my classmates which have agreed about it being an issue for most students in the class. Here, another problem identified was the lack of motivation to discuss. After a brainstorm session (shown in Appendix section 1), I've concluded that I am in need of a Social Network that allows me to post my ideas and have class discussion in an organized manner. Additionally, it is important to consider that the client's budget is limited.
+I am High School Student in an International School in Japan who attends an English Literature class. The class requires active discussion and exchange of ideas about the books read for the course. I am asked to manually create a personal portfolio and add my thoughts in it after the discussions in class, however at the moment this method has become too time consuming for me, tedious and hard to keep track off. It is also difficult for me to find important information when studying and is hard to catch up when I miss a class. Additionally, I have spoken with my classmates which have agreed about it being an issue for most students in the class. After a brainstorm session (shown in Appendix section 1), I've concluded that I am in need of a Social Network that allows me to post my ideas and have class discussion in an organized manner. Additionally, it is important to consider that the client's budget is limited.
 
 ## Rationale for Proposed Solution
   
@@ -41,12 +41,12 @@ I will design and make a Book Review Social Network called LitPals for a highsch
 
 ## Success criteria
   
-1. Litpals displays the discussions organized by book from the class reading list. [issue: "...tedious and hard to keep track off..."]
+1. Litpals displays the posts organized by book from the class reading list. [issue: "...tedious and hard to keep track off..."]
 2. Litpals allows the user to create a post for every book in the class reading list. [issue: "...requires active discussion and exchange of ideas about the books read for the course..."]
 3. Litpals provides a profile with a section to see the user's information and see all posts made by the user. [issue:　"...difficult for me to find important information when studying..."]
 4. Litpals provides a way to like posts and a section within the profile to see all liked comments by the user. [issue: "...difficult for me to find important information when studying..."]
 5. Litpals provides a search bar to identify keywords within a book discussion. [issue: "...hard to keep track off..."]
-6. Litpals provides some statistics a top 3 of the users who have commented the most. [issue: "...lack of motivation to discuss..."]
+6. Litpals displays the date a post was made. [issue: "...hard to catch up when I miss a class..."]
 
 # Criteria B: Design
 
