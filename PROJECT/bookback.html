@@ -1,0 +1,39 @@
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LITPALS</title>
+    <link rel="stylesheet" href="/static/backlog.css">
+</head>
+<body>
+<div class="books"></div>
+<section>
+<div class="signin">
+    <form class="content" method="post">
+        <h2>&#128218; LitPals &#128218;</h2>
+        <h3>Sign in</h3>
+        <div class="form">
+            <div class="inputBx">
+                <input type="text" name="username" required>
+                <i>Username</i>
+            </div>
+            <div class="inputBx">
+                <input type="password" name="password" required>
+                <i>Password</i>
+            </div>
+            <div class="links">
+                <a href="http://127.0.0.1:5000/register">Register</a>
+            </div>
+            <div class="inputBx">
+                <input type="submit" name="login" value="Login" href="{{ url_for("lobby")}}">
+            </div>
+        </div>
+    </form>
+</div>
+</section>
+</body>
+</html>
+```.py
