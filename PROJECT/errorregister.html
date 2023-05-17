@@ -1,0 +1,26 @@
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ERROR</title>
+    <link rel="stylesheet" href="/static/errorregister.css">
+</head>
+<body>
+    <h1> &#128681; UPS! Something went wrong with your registration &#128681;</h1>
+    <br><br>
+    <h2> Check for the following mistakes that might be preventing you from joining &#128218;LITPALS&#128218;:</h2>
+    <br><br>
+    <p> &#128270; Someone already registered with that username. Did you forget your password?</p>
+    <br><br>
+    <p> &#128270; Your password and confirmation of the password do not match</p>
+    <br><br>
+    <p> &#128270; Your password must be longer than 8 characters. Just to be safe!</p>
+    <br><br>
+    <h3> Please try again! Click the following button to return to the registration screen: </h3>
+    <button type="button" class="button1">
+            <a href="{{ url_for("register")}}">Register</a>
+    </button>
+</body>
+</html>
+```.py
