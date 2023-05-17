@@ -1,0 +1,30 @@
+body{
+    background-color: #222222FF;
+    position: center;
+    font-family: 'Quicksand', sans-serif;
+    text-transform: uppercase;
+}
+
+h1{
+    font-size: 3.5em;
+    color: #c5aa18;
+    text-align: center;
+}
+
+h2{
+    font-size: 2.8em;
+    color: #ceccc1;
+    text-align: center;
+}
+
+h3{
+    font-size: 2.3em;
+    color: #ceccc1;
+    text-align: center;
+}
+
+h4{
+    font-size: 1.8em;
+    color: #ceccc1;
+    text-align: center;
+}
