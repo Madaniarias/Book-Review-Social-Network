@@ -1,0 +1,38 @@
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NEW POST</title>
+    <link rel="stylesheet" href="/static/new_post.css">
+
+</head>
+<body>
+<center>
+   <section>
+    <form method="POST">
+        <h1>&#128221;CREATE A NEW POST&#128221;</h1>
+        <p><strong>Your Username:</strong><br>
+            <input type="text" name="username" size=40 maxlength=150>
+        <p><strong>Book:</strong><br>
+            <label for="book">Choose a book:</label>
+              <select name="books" id="books">
+                <option value="In Praise of Shadows">In Praise of Shadows</option>
+                <option value="The Awakening">The Awakening</option>
+                <option value="Oryx and Crake">Oryx and Crake</option>
+                <option value="The Importance of being earnest">The Importance of being earnest</option>
+              </select>
+        <p><strong>Topic:</strong><br>
+            <input type="text" name="post_topic" size=40 maxlength=150>
+        <P><strong>Post Text:</strong><br>
+            <textarea name="post_text" rows=8 cols=40 wrap=virtual></textarea>
+        <P><input type="submit" class="post" value="Add Post"></p>
+        <P><div class="links">
+                <a href="{{ url_for("lobby")}}">Back</a>
+            </div></p>
+    </form>
+   </section>
+</center>
+</body>
+</html>
+```.py
