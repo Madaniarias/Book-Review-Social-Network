@@ -1,0 +1,63 @@
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> MY POSTS </title>
+    <link rel="stylesheet" href="/static/postdisplay.css">
+</head>
+
+<body>
+<header>
+    <div class="header">
+        <center>
+            <div id='search-box' itemprop='mainEntity' itemscope='itemscope' itemtype='https://schema.org/WebSite'>
+            <form action='/search' id='search-fs' itemprop='potentialAction' itemscope='itemscope' itemtype='https://schema.org/SearchAction' method='get' query-input='required'>
+            <i aria-hidden='true' class='fa fa-search'></i>
+            <input id='search-text' itemprop='query-input' name='q' placeholder='Search here' required='' type='text' value=''/>
+            <input name='max-results' type='hidden' value='9'/>
+
+        </center>
+    </div>
+</header>
+
+        {% for post in forum_posts %}
+        <div class="blog-post">
+            <div class="blog-post_info">
+                <div class="blog-post_date">
+                    <span class="username">{{ post[0] }}</span>
+                    <span class="created-at"> {{ post[1] }}</span>
+                    <span class="book"> {{ post[3] }}</span>
+                </div>
+                <h1 class="blog-post_title" name="post_topic"> Topic: {{ post[2]}}</h1>
+                <p class="blog-post_text" name="post_text">
+                    "{{ post[4] }}".
+                </p>
+            </div>
+        </div>
+        {% endfor %}
+
+<script>
+    const searchBar = document.querySelector('#search-text');
+    const posts = document.querySelectorAll('.blog-post_text');
+
+    searchBar.addEventListener('keyup', () => {
+        const searchTerm = searchBar.value.toLowerCase();
+        posts.forEach(post => {
+            const text = post.textContent.toLowerCase();
+            if (text.includes(searchTerm)) {
+                post.innerHTML = text.replace(new RegExp(searchTerm, 'gi'), match => `<span class='highlight'>${match}</span>`);
+            } else {
+                post.innerHTML = text;
+            }
+        });
+    });
+</script>
+
+</body>
+
+</html>
+```.py
