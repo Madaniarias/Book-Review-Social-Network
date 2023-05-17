@@ -1,0 +1,55 @@
+body {
+    background: #222222FF;
+}
+
+h1{
+  font-size: 2em;
+  color: #c5aa18;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h2{
+  font-size: 1.5em;
+  color: #c5aa18;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h3{
+  font-size: 2em;
+  color: #c5aa18;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Quicksand', sans-serif;
+}
+
+p {
+    color: #c5aa18;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.3em;
+}
+
+a {
+  text-decoration: none;
+  color: #222222;
+}
+
+button {
+  padding: 25px;
+  background: rgb(197, 170, 24);
+  color: #222222;
+  font-weight: 600;
+  font-size: 1.5em;
+  letter-spacing: 0.05em;
+  border: none;
+  margin-left: 650px;
+  margin-top: -15px;
+  border-radius: 12px;
+  cursor: pointer;
+  pointer-events: all;
+}
