@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PROFILE</title>
+    <link rel="stylesheet" href="/static/profile.css">
+</head>
+<body>
+    <div class="card">
+            <div class="card-body">
+                <i class="fa fa-pen fa-xs edit"></i>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>&#128107;Name:</td>
+                            <td></td>
+                            <td>{{ user[0][0] }}</td>
+                        </tr>
+                        <tr><h1> &#128202; PROFILE &#128202;</h1></tr>
+                        <tr>
+                            <td>&#128221;Number of Posts:</td>
+                            <td></td>
+                            <td>{{ noposts[0][1] }}</td>
+                        </tr>
+                        <tr>
+                            <td>&#128218;Book that you commented in the most:</td>
+                            <td></td>
+                            <td>{{ book[0][0] }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <P><div class="links">
+                <a href="{{ url_for("myposts")}}">MY POSTS</a>
+                </div></p>
+                <P><div class="links">
+                <a href="{{ url_for("lobby")}}">BACK</a>
+                </div></p>
+            </div>
+        </div>
+</body>
+</html>
