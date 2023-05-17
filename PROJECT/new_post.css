@@ -1,0 +1,82 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-image: url('bookshelf.webp');
+}
+
+form{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+section{
+
+  position: relative;
+  top: 100px;
+  width: 400px;
+  height: 550px;
+  background: #222222;
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 45px;
+  border-radius: 4px;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.5);
+}
+
+h1 {
+  font-size: 1.9em;
+  color: #c5aa18;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+input.post {
+  position: relative;
+  padding: 10px;
+  background: rgb(197, 170, 24);
+  color: #222222;
+  font-weight: 600;
+  font-size: 1.25em;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+
+input.back {
+  position: relative;
+  padding: 10px;
+  background: rgb(197, 170, 24);
+  color: #222222;
+  font-weight: 600;
+  font-size: 1.25em;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+strong {
+  text-transform: uppercase;
+  color: #c5aa18;
+}
+
+label {
+  text-transform: uppercase;
+  color: #c5aa18;
+}
+
+div.links a{
+  color: #c5aa18;
+  text-weigth: 800px;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+}
