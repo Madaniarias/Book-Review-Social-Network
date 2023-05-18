@@ -80,24 +80,18 @@ I will design and make a Book Review Social Network called LitPals for a highsch
 | 25     | Creating databases for New Post Form per book | Create a databases (4) to save the posts created within each specific book. Use SQLite queries in the python code to create the databases. | 5 min | May 4 | C
 | 26     | Create style for the "View Posts" Page per book | Create style for the page were posts of the respectove book are going to be shown. | 30 min | May 5 | C
 | 27     | Create code for the "View Posts" Page per book | Connect the posts databases of each book to the View Posts page so information is correctly displayed. | 130 min | May 5 | C
-| 28     | Create style for the "View Posts" Page per book | Create a save button that takes all the information from the checkboxes, progress bar and percentage and date selection and saves it in the database | 30 min | March 6 | C
-| 29     | Create History Screen Button | Create a button that takes you to the History Screen | 10 min | March 7 | C
-| 30     | Create and code Log out button | Create a log out that takes you to back to the login screen  | 5 min | March 7 | C
-| 31     | Fix Main Screen GUI (Graphical User Interface)| Fix the display with all the new additions to the Main Screen to have a more clean and proportional look | 30 min | March 7 | C
-| 32     | Create GUI (Graphical User Interface) for History Screen | Use KivyMD (GUI Tool) to create the design and visuals of the history screen. | 30 min | March 7 | C
-| 33     | Create code for History of all habits display | Create a table display with all the data obtained form the main screen on the habit completion per day. | 90 min | March 7 | C 
-| 34     | Create code for user specific History table display | Create a code that only allows information relevant to the current user to display in the history habit table. | 15 min | March 7 | C
-| 35     | Add checkboxes to history table display | Create a code that add checkboxes to display in the history habit table to be able to select the data saved for a specific day. | 20 min | March 7 | C
-| 36     | Create delete button | Create a button that allows you to delete the data saved for a specific day that was selected with the checkbox from the history habit table. | 20 min | March 7 | C
-| 37     | Create and code back button | Create a button that allows you to go to the Main Screen | 5 min | March 7 | C 
-| 38     | Alpha testing | Test the code for the different functionalities created for the habit tracker application. | 15 min | March 8 | C
-| 39     | Meeting and Beta testing by client | Meet with the client and let them test the habit tracker. Get feedback on possible improvements/fixes. | 30 min | March 8 | C
-| 40     | Fix errors | Modify following the feedback given in the beta testing session with the user | 120 | March 9 | C
-| 41     | Alpha testing | Test the code for the different functionalities created for the habit tracker application after the feedback was implemented. | 15 min | March 9 | C
-| 42     | Meeting and Beta testing by client | Meet with the client and let them test the habit tracker. Get feedback on possible improvements/fixes. | 30 min | March 9 | C
-| 43     | Final approval by client | Obtain approval by the client on the overall development of the habit tracker application | 20 min | March 9 | C
-| 44     | Flow diagrams | Draw the flow diagrams for some of the important function inside the code for habit tracker application.  | 90 min | March 9 | C
-| 45     | UML Diagram | Draw the UML diagrams for the screen structure and internal functionality for habit tracker application. | 40 min | March 9 | C
+| 28     | Create style for the "Stats" Page | Create a ranking with some emojis and colors. Put the person who commented the most with a bigger font.| 15 min | May 5 | C
+| 29     | Create code for the "Stats" Page | Create a ranking by taking from the database the people who commented the most and displaying with the Css previously done. | 10 min | May 5 | C
+| 30     | Create style for "Profile" page | Create the user's profile. Add a table to display user's information. Add a button that will later take the user to see their own posts | 100 min | May 6 | C
+| 31     | Create style for "Profile" page | Create the user's profile. Connect the database to acces the users information a table to display it in the table previosly created. | 50 min | May 6| C
+| 32     | Create "Log Out" function and button | Create a button in the main screen and whne pressed connect it to the login screen back again. This will function as a log out function. | 20 min | May 6 | C
+| 33     | Alpha testing | Test the code for the different functionalities created for LitPals. | 20 min | May 8 | C
+| 34    | Meeting and Beta testing by client | Meet with the client and let them test LitPals. Get feedback on possible improvements/fixes. | 30 min | May 8 | C
+| 35     | Fix errors | Modify following the feedback given in the beta testing session with the user | 120 | May 10 | C
+| 36     | Alpha testing | Test the code for the different functionalities created for LitPals after the feedback was implemented. | 15 min | March 9 | C
+| 38     | Final approval by client | Obtain approval by the client on the overall development of Litpals | 20 min | May 10| C
+| 39     | Flow diagrams | Draw the flow diagrams for some of the important function inside the code for Litpals. | 90 min | May 10 | C
+| 40     | UML Diagram | Draw the UML diagrams for the screen structure and internal functionality for Litpals. | 40 min | May 10 | C
   
 # Criteria D: Functionality
 
