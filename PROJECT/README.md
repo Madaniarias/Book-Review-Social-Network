@@ -95,20 +95,23 @@ I will design and make a Book Review Social Network called LitPals for a highsch
   
 # SYSTEM DIAGRAM
   
-  
+<sub>FIG 1. System Diagram is divided in Keyboard and Screen (Connected). Following by the computer (MacBook Air) and Processor (Dual-Core Intel Core i5 1.8GHz 8GB. Next, the Operating System (OS: MacOS 12.5 (21G72). For the software we are using Python 3.10.7. For the GUI (Graphic Unser Interface) we are using KivyMD.uix. Operating inside the software, there is 2 python files (habit_tracker.py and secure_password). Operating inside the GUI, teh is one file (habit_kivy.kv). Lastly, this is connected to the database engine SQLite. There is one database (habit_tracker.db) with 2 tables inside (user and habit).
   
 # WIREFRAME DIAGRAM
  
-  
+<sub>FIG 2. The image displays the Wireframe diagram for the habit tracker. It shows the skeleton of a website or an application's user interface (UI) and core functionality. The Wireframe is divided in Login Screen, Register Screen, Main Screen and History Screen. The application will open in the Login Scrren. Here, the user has the option to login or register. If clicked register, this will take the use to the Register Screen where the user will have the option to go back to the Login Screen or to fill the information required and resgister. If clicked login, the user will be taken to the Main Screen. Here, the user has the option to check boxes to mark habits completed, save the progress, select the date, see history and log out. If clicked log out, the user will be taken back to the Login Screen. If clicked save, the user will save the habits marked by the checkboxes, the day and the percentage of completion. If clicked date, the user will be able to select the date. If clicked history, the user will be take to the History Screen. Here, the user has the option to see history of all habits, delete a day or go back to Main Screen . If clicked Back, the user will be taken back to the Main Screen. If clicked delete, the user will delete the row selected by the checkbox on the history display above. 
   
 # FLOW DIAGRAMS
   
   
+  
 # ER DIAGRAMS
   
+<sub>FIG 6. This image shows ER Diagram for the two tables: user, habit.  
   
 # UML DIAGRAMS
   
+<sub>FIG 7. This image shows the UML diagram for the habit tracker. Here are displayed the classes and methods used to develop the application. The diagram includes two main parent classes: MDApp and MDScreen. All subclasses inherit methods and attributes from these parent classes, as indicated by the arrows in the diagram.  
 
 # TEST PLAN
   
