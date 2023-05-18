@@ -93,6 +93,22 @@ I will design and make a Book Review Social Network called LitPals for a highsch
 | 39     | Flow diagrams | Draw the flow diagrams for some of the important function inside the code for Litpals. | 90 min | May 10 | C
 | 40     | UML Diagram | Draw the UML diagrams for the screen structure and internal functionality for Litpals. | 40 min | May 10 | C
   
+# SYSTEM DIAGRAM
+  
+# WIREFRAME DIAGRAM
+  
+  
+# FLOW DIAGRAMS
+  
+# ER DIAGRAMS
+  
+# UML DIAGRAMS
+  
+
+# TEST PLAN
+  
+
+  
 # Criteria D: Functionality
 
 ### VIDEO IN GOOGLE DRIVE FOLDER
