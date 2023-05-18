@@ -95,7 +95,8 @@ I will design and make a Book Review Social Network called LitPals for a highsch
   
 # SYSTEM DIAGRAM
   
-<sub>FIG 1. System Diagram is divided in Keyboard and Screen (Connected). Following by the computer (MacBook Air) and Processor (Dual-Core Intel Core i5 1.8GHz 8GB. Next, the Operating System (OS: MacOS 12.5 (21G72). For the software we are using Python 3.10.7. For the GUI (Graphic Unser Interface) we are using KivyMD.uix. Operating inside the software, there is 2 python files (habit_tracker.py and secure_password). Operating inside the GUI, teh is one file (habit_kivy.kv). Lastly, this is connected to the database engine SQLite. There is one database (habit_tracker.db) with 2 tables inside (user and habit).
+![image](https://github.com/Madaniarias/Unit4_rep/assets/111761417/31ba687f-8e47-4870-8d87-daa779dbe041)
+<sub>FIG 1. System Diagram is divided in Keyboard and Screen (Connected). Following by the computer (MacBook Air) and Processor (Dual-Core Intel Core i5 1.8GHz 8GB. Next, the Operating System (OS: MacOS 12.5 (21G72). Within the Flask Server, the software being used is Python 3.10.7. Operating inside the software, there is the 2 python files (app.py and my_library.py). Additionally we have a templates file that includes all the html for LitPals and a static file that includes all the css for LitPals. Lastly, this is connected to the database engine SQLite. There is one database (social_net.db) with 2 tables inside (user and forum_posts).
   
 # WIREFRAME DIAGRAM
  
