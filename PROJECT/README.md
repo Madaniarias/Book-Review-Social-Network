@@ -29,7 +29,7 @@
 
 ## Problem definition
 
-I am High School Student in an International School in Japan who attends an English Literature class. The class requires active discussion and exchange of ideas about the books read for the course. I am asked to manually create a personal portfolio and add my thoughts in it after the discussions in class, however at the moment this method has become too time consuming for me, tedious and hard to keep track off. It is also difficult for me to find important information when studying and is hard to catch up when I miss a class. Additionally, I have spoken with my classmates which have agreed about it being an issue for most students in the class. After a brainstorm session (shown in Appendix section 1), I've concluded that I am in need of a Social Network that allows me to post my ideas and have class discussion in an organized manner. Additionally, it is important to consider that the client's budget is limited.
+I am High School Student in an International School in Japan who attends an English Literature class. The class requires active discussion and exchange of ideas about the books read for the course. I am asked to manually create a personal portfolio and add my thoughts in it after the discussions in class, however at the moment this method has become too time consuming for me, tedious and hard to keep track off. It is also difficult for me to find important information when studying and is hard to catch up when I miss a class. Additionally, I have spoken with my classmates which have agreed about it being an issue for most students in the class and including motivation as one of their issues too. After a brainstorm session (shown in Appendix section 1), I've concluded that I am in need of a Social Network that allows me to post my ideas and have class discussion in an organized manner. Additionally, it is important to consider that the client's budget is limited.
 
 ## Rationale for Proposed Solution
   
@@ -44,7 +44,7 @@ I will design and make a Book Review Social Network called LitPals for a highsch
 1. Litpals displays the posts organized by book from the class reading list. [issue: "...tedious and hard to keep track off..."]
 2. Litpals allows the user to create a post for every book in the class reading list. [issue: "...requires active discussion and exchange of ideas about the books read for the course..."]
 3. Litpals provides a profile with a section to see the user's information and see all posts made by the user. [issue:　"...difficult for me to find important information when studying..."]
-4. Litpals provides a way to like posts and a section within the profile to see all liked comments by the user. [issue: "...difficult for me to find important information when studying..."]
+4. Litpals provides some statistics to display the top 3 commenters in LitPals [issue: "...motivation as one of their issues too..."]
 5. Litpals provides a search bar to identify keywords within a book discussion. [issue: "...hard to keep track off..."]
 6. Litpals displays the date a post was made. [issue: "...hard to catch up when I miss a class..."]
 
@@ -80,7 +80,7 @@ I will design and make a Book Review Social Network called LitPals for a highsch
 | 25     | Creating databases for New Post Form per book | Create a databases (4) to save the posts created within each specific book. Use SQLite queries in the python code to create the databases. | 5 min | May 4 | C
 | 26     | Create style for the "View Posts" Page per book | Create style for the page were posts of the respectove book are going to be shown. | 30 min | May 5 | C
 | 27     | Create code for the "View Posts" Page per book | Connect the posts databases of each book to the View Posts page so information is correctly displayed. | 130 min | May 5 | C
-| 28     | Create Habit Tracking System pt.5: Save button | Create a save button that takes all the information from the checkboxes, progress bar and percentage and date selection and saves it in the database | 30 min | March 6 | C
+| 28     | Create style for the "View Posts" Page per book | Create a save button that takes all the information from the checkboxes, progress bar and percentage and date selection and saves it in the database | 30 min | March 6 | C
 | 29     | Create History Screen Button | Create a button that takes you to the History Screen | 10 min | March 7 | C
 | 30     | Create and code Log out button | Create a log out that takes you to back to the login screen  | 5 min | March 7 | C
 | 31     | Fix Main Screen GUI (Graphical User Interface)| Fix the display with all the new additions to the Main Screen to have a more clean and proportional look | 30 min | March 7 | C
