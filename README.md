@@ -100,19 +100,19 @@ I will design and make a Book Review Social Network called LitPals for a highsch
   
 # WIREFRAME DIAGRAM
  
-<sub>FIG 2. In progress...
+<sub>FIG 2. Not posted yet
   
 # FLOW DIAGRAMS
   
- <sub>FIG 5. In progres... 
+ <sub>FIG 5. Not posted yet
   
 # ER DIAGRAMS
   
-<sub>FIG 6. In progres...
+<sub>FIG 6. Not posted yet
   
 # UML DIAGRAMS
   
-<sub>FIG 7. In progres...
+<sub>FIG 7. Not posted yet
 
 # TEST PLAN
   
@@ -127,8 +127,7 @@ I will design and make a Book Review Social Network called LitPals for a highsch
   
 # Criteria D: Functionality
 
-### VIDEO IN GOOGLE DRIVE FOLDER
-
+Video not posted yet
   
 # Sources
 [^1]: “Advantages of Python | Disadvantages of Python.” Python Geeks, 25 June 2021, pythongeeks.org/advantages-disadvantages-of-python/.
